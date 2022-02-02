@@ -1,0 +1,11 @@
+// configurations
+@import 'abstracts/global';
+
+// navigation, header, sidebar, forms kind of containers
+@import 'layout/global';
+
+// page specific styles
+@import 'features/global';
+
+// common components specific styles
+@import 'components/global';

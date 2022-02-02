@@ -1,0 +1,60 @@
+{
+  "editor.fontSize": 14,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0,
+  "javascript.validate.enable": false,
+  "javascript.format.enable": false,
+  "flow.useNPMPackagedFlow": true,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnSave": true,
+  "eslint.alwaysShowStatus": true,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.bracketSpacing": false,
+  "prettier.jsxBracketSameLine": true,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+  "prettier.useTabs": true,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 140,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.associations": {
+    "*.yml": "yaml"
+  },
+  "editor.tabSize": 2,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "python.jediEnabled": false,
+  "colorize.languages": ["javascript", "typescript", "javascriptreact", "text"],
+  "diffEditor.ignoreTrimWhitespace": false,
+  "cSpell.language": "en",
+  "cSpell.enableFiletypes": [
+    "!javascript"
+  ],
+  "cSpell.words": [
+    "Sider",
+    "antd",
+    "clonedeep",
+    "cronstrue",
+    "fliq",
+    "iaps",
+    "popconfirm",
+    "reduxjs",
+    "testid"
+  ]
+}

@@ -1,0 +1,2189 @@
+[
+	{
+		"cca3": "ALA",
+		"ccy": "EUR",
+		"mobileCountryCode": "+35818",
+		"name": {
+			"en_name": "Åland Islands",
+			"ja_name": "オーランド諸島"
+		}
+	},
+	{
+		"cca3": "ABW",
+		"ccy": "AWG",
+		"mobileCountryCode": "+297",
+		"name": {
+			"en_name": "Aruba",
+			"ja_name": "アルバ"
+		}
+	},
+	{
+		"cca3": "AFG",
+		"ccy": "AFN",
+		"mobileCountryCode": "+93",
+		"name": {
+			"en_name": "Afghanistan",
+			"ja_name": "アフガニスタン"
+		}
+	},
+	{
+		"cca3": "AGO",
+		"ccy": "AOA",
+		"mobileCountryCode": "+244",
+		"name": {
+			"en_name": "Angola",
+			"ja_name": "アンゴラ"
+		}
+	},
+	{
+		"cca3": "AIA",
+		"ccy": "XCD",
+		"mobileCountryCode": "+1264",
+		"name": {
+			"en_name": "Anguilla",
+			"ja_name": "アンギラ"
+		}
+	},
+	{
+		"cca3": "ALB",
+		"ccy": "ALL",
+		"mobileCountryCode": "+355",
+		"name": {
+			"en_name": "Albania",
+			"ja_name": "アルバニア"
+		}
+	},
+	{
+		"cca3": "AND",
+		"ccy": "EUR",
+		"mobileCountryCode": "+376",
+		"name": {
+			"en_name": "Andorra",
+			"ja_name": "アンドラ"
+		}
+	},
+	{
+		"cca3": "ARE",
+		"ccy": "AED",
+		"mobileCountryCode": "+971",
+		"name": {
+			"en_name": "United Arab Emirates",
+			"ja_name": "アラブ首長国連邦"
+		}
+	},
+	{
+		"cca3": "ARG",
+		"ccy": "ARS",
+		"mobileCountryCode": "+54",
+		"name": {
+			"en_name": "Argentina",
+			"ja_name": "アルゼンチン"
+		}
+	},
+	{
+		"cca3": "CCK",
+		"ccy": "AUD",
+		"mobileCountryCode": "+61",
+		"name": {
+			"en_name": "Cocos Keeling Islands",
+			"ja_name": "ココス（キーリング）諸島"
+		}
+	},
+	{
+		"cca3": "ARM",
+		"ccy": "AMD",
+		"mobileCountryCode": "+374",
+		"name": {
+			"en_name": "Armenia",
+			"ja_name": "アルメニア"
+		}
+	},
+	{
+		"cca3": "ASM",
+		"ccy": "USD",
+		"mobileCountryCode": "+1684",
+		"name": {
+			"en_name": "American Samoa",
+			"ja_name": "アメリカ領サモア"
+		}
+	},
+	{
+		"cca3": "ATG",
+		"ccy": "XCD",
+		"mobileCountryCode": "+1268",
+		"name": {
+			"en_name": "Antigua and Barbuda",
+			"ja_name": "アンティグア・バーブーダ"
+		}
+	},
+	{
+		"cca3": "AUS",
+		"ccy": "AUD",
+		"mobileCountryCode": "+61",
+		"name": {
+			"en_name": "Australia",
+			"ja_name": "オーストラリア"
+		}
+	},
+	{
+		"cca3": "AUT",
+		"ccy": "EUR",
+		"mobileCountryCode": "+43",
+		"name": {
+			"en_name": "Austria",
+			"ja_name": "オーストリア"
+		}
+	},
+	{
+		"cca3": "AZE",
+		"ccy": "AZN",
+		"mobileCountryCode": "+994",
+		"name": {
+			"en_name": "Azerbaijan",
+			"ja_name": "アゼルバイジャン"
+		}
+	},
+	{
+		"cca3": "BDI",
+		"ccy": "BIF",
+		"mobileCountryCode": "+257",
+		"name": {
+			"en_name": "Burundi",
+			"ja_name": "ブルンジ"
+		}
+	},
+	{
+		"cca3": "BEL",
+		"ccy": "EUR",
+		"mobileCountryCode": "+32",
+		"name": {
+			"en_name": "Belgium",
+			"ja_name": "ベルギー"
+		}
+	},
+	{
+		"cca3": "BEN",
+		"ccy": "XOF",
+		"mobileCountryCode": "+229",
+		"name": {
+			"en_name": "Benin",
+			"ja_name": "ベナン"
+		}
+	},
+	{
+		"cca3": "BFA",
+		"ccy": "XOF",
+		"mobileCountryCode": "+226",
+		"name": {
+			"en_name": "Burkina Faso",
+			"ja_name": "ブルキナファソ"
+		}
+	},
+	{
+		"cca3": "BGD",
+		"ccy": "BDT",
+		"mobileCountryCode": "+880",
+		"name": {
+			"en_name": "Bangladesh",
+			"ja_name": "バングラデシュ"
+		}
+	},
+	{
+		"cca3": "BGR",
+		"ccy": "BGN",
+		"mobileCountryCode": "+359",
+		"name": {
+			"en_name": "Bulgaria",
+			"ja_name": "ブルガリア"
+		}
+	},
+	{
+		"cca3": "BHR",
+		"ccy": "BHD",
+		"mobileCountryCode": "+973",
+		"name": {
+			"en_name": "Bahrain",
+			"ja_name": "バーレーン"
+		}
+	},
+	{
+		"cca3": "BHS",
+		"ccy": "BSD",
+		"mobileCountryCode": "+1242",
+		"name": {
+			"en_name": "Bahamas",
+			"ja_name": "バハマ"
+		}
+	},
+	{
+		"cca3": "BIH",
+		"ccy": "BAM",
+		"mobileCountryCode": "+387",
+		"name": {
+			"en_name": "Bosnia and Herzegovina",
+			"ja_name": "ボスニア・ヘルツェゴビナ"
+		}
+	},
+	{
+		"cca3": "BLM",
+		"ccy": "EUR",
+		"mobileCountryCode": "+590",
+		"name": {
+			"en_name": "Saint Barthélemy",
+			"ja_name": "サン・バルテルミー"
+		}
+	},
+	{
+		"cca3": "BLR",
+		"ccy": "BYN",
+		"mobileCountryCode": "+375",
+		"name": {
+			"en_name": "Belarus",
+			"ja_name": "ベラルーシ"
+		}
+	},
+	{
+		"cca3": "BLZ",
+		"ccy": "BZD",
+		"mobileCountryCode": "+501",
+		"name": {
+			"en_name": "Belize",
+			"ja_name": "ベリーズ"
+		}
+	},
+	{
+		"cca3": "BMU",
+		"ccy": "BMD",
+		"mobileCountryCode": "+1441",
+		"name": {
+			"en_name": "Bermuda",
+			"ja_name": "バミューダ"
+		}
+	},
+	{
+		"cca3": "BOL",
+		"ccy": "BOB",
+		"mobileCountryCode": "+591",
+		"name": {
+			"en_name": "Bolivia",
+			"ja_name": "ボリビア多民族国"
+		}
+	},
+	{
+		"cca3": "BRA",
+		"ccy": "BRL",
+		"mobileCountryCode": "+55",
+		"name": {
+			"en_name": "Brazil",
+			"ja_name": "ブラジル"
+		}
+	},
+	{
+		"cca3": "BRB",
+		"ccy": "BBD",
+		"mobileCountryCode": "+1246",
+		"name": {
+			"en_name": "Barbados",
+			"ja_name": "バルバドス"
+		}
+	},
+	{
+		"cca3": "BRN",
+		"ccy": "BND",
+		"mobileCountryCode": "+673",
+		"name": {
+			"en_name": "Brunei",
+			"ja_name": "ブルネイ・ダルサラーム"
+		}
+	},
+	{
+		"cca3": "BTN",
+		"ccy": "BTN",
+		"mobileCountryCode": "+975",
+		"name": {
+			"en_name": "Bhutan",
+			"ja_name": "ブータン"
+		}
+	},
+	{
+		"cca3": "BWA",
+		"ccy": "BWP",
+		"mobileCountryCode": "+267",
+		"name": {
+			"en_name": "Botswana",
+			"ja_name": "ボツワナ"
+		}
+	},
+	{
+		"cca3": "CAF",
+		"ccy": "XAF",
+		"mobileCountryCode": "+236",
+		"name": {
+			"en_name": "Central African Republic",
+			"ja_name": "中央アフリカ共和国"
+		}
+	},
+	{
+		"cca3": "CAN",
+		"ccy": "CAD",
+		"mobileCountryCode": "+1",
+		"name": {
+			"en_name": "Canada",
+			"ja_name": "カナダ"
+		}
+	},
+	{
+		"cca3": "CHE",
+		"ccy": "CHF",
+		"mobileCountryCode": "+41",
+		"name": {
+			"en_name": "Switzerland",
+			"ja_name": "スイス"
+		}
+	},
+	{
+		"cca3": "CHL",
+		"ccy": "CLP",
+		"mobileCountryCode": "+56",
+		"name": {
+			"en_name": "Chile",
+			"ja_name": "チリ"
+		}
+	},
+	{
+		"cca3": "CHN",
+		"ccy": "CNH",
+		"mobileCountryCode": "+86",
+		"name": {
+			"en_name": "China",
+			"ja_name": "中国"
+		}
+	},
+	{
+		"cca3": "CIV",
+		"ccy": "XOF",
+		"mobileCountryCode": "+225",
+		"name": {
+			"en_name": "Ivory Coast",
+			"ja_name": "コートジボワール"
+		}
+	},
+	{
+		"cca3": "CMR",
+		"ccy": "XAF",
+		"mobileCountryCode": "+237",
+		"name": {
+			"en_name": "Cameroon",
+			"ja_name": "カメルーン"
+		}
+	},
+	{
+		"cca3": "COD",
+		"ccy": "CDF",
+		"mobileCountryCode": "+243",
+		"name": {
+			"en_name": "DR Congo",
+			"ja_name": "コンゴ民主共和国"
+		}
+	},
+	{
+		"cca3": "COG",
+		"ccy": "XAF",
+		"mobileCountryCode": "+242",
+		"name": {
+			"en_name": "Republic of the Congo",
+			"ja_name": "コンゴ共和国"
+		}
+	},
+	{
+		"cca3": "COK",
+		"ccy": "CKD",
+		"mobileCountryCode": "+682",
+		"name": {
+			"en_name": "Cook Islands",
+			"ja_name": "クック諸島"
+		}
+	},
+	{
+		"cca3": "COL",
+		"ccy": "COP",
+		"mobileCountryCode": "+57",
+		"name": {
+			"en_name": "Colombia",
+			"ja_name": "コロンビア"
+		}
+	},
+	{
+		"cca3": "COM",
+		"ccy": "KMF",
+		"mobileCountryCode": "+269",
+		"name": {
+			"en_name": "Comoros",
+			"ja_name": "コモロ"
+		}
+	},
+	{
+		"cca3": "CPV",
+		"ccy": "CVE",
+		"mobileCountryCode": "+238",
+		"name": {
+			"en_name": "Cape Verde",
+			"ja_name": "カーボベルデ"
+		}
+	},
+	{
+		"cca3": "CRI",
+		"ccy": "CRC",
+		"mobileCountryCode": "+506",
+		"name": {
+			"en_name": "Costa Rica",
+			"ja_name": "コスタリカ"
+		}
+	},
+	{
+		"cca3": "CUB",
+		"ccy": "CUC",
+		"mobileCountryCode": "+53",
+		"name": {
+			"en_name": "Cuba",
+			"ja_name": "キューバ"
+		}
+	},
+	{
+		"cca3": "CXR",
+		"ccy": "AUD",
+		"mobileCountryCode": "+61",
+		"name": {
+			"en_name": "Christmas Island",
+			"ja_name": "クリスマス島"
+		}
+	},
+	{
+		"cca3": "CYM",
+		"ccy": "KYD",
+		"mobileCountryCode": "+1345",
+		"name": {
+			"en_name": "Cayman Islands",
+			"ja_name": "ケイマン諸島"
+		}
+	},
+	{
+		"cca3": "CYP",
+		"ccy": "EUR",
+		"mobileCountryCode": "+357",
+		"name": {
+			"en_name": "Cyprus",
+			"ja_name": "キプロス"
+		}
+	},
+	{
+		"cca3": "CZE",
+		"ccy": "CZK",
+		"mobileCountryCode": "+420",
+		"name": {
+			"en_name": "Czechia",
+			"ja_name": "チェコ"
+		}
+	},
+	{
+		"cca3": "DEU",
+		"ccy": "EUR",
+		"mobileCountryCode": "+49",
+		"name": {
+			"en_name": "Germany",
+			"ja_name": "ドイツ"
+		}
+	},
+	{
+		"cca3": "DJI",
+		"ccy": "DJF",
+		"mobileCountryCode": "+253",
+		"name": {
+			"en_name": "Djibouti",
+			"ja_name": "ジブチ"
+		}
+	},
+	{
+		"cca3": "DMA",
+		"ccy": "XCD",
+		"mobileCountryCode": "+1767",
+		"name": {
+			"en_name": "Dominica",
+			"ja_name": "ドミニカ国"
+		}
+	},
+	{
+		"cca3": "DNK",
+		"ccy": "DKK",
+		"mobileCountryCode": "+45",
+		"name": {
+			"en_name": "Denmark",
+			"ja_name": "デンマーク"
+		}
+	},
+	{
+		"cca3": "DOM",
+		"ccy": "DOP",
+		"mobileCountryCode": "+1",
+		"name": {
+			"en_name": "Dominican Republic",
+			"ja_name": "ドミニカ共和国"
+		}
+	},
+	{
+		"cca3": "DZA",
+		"ccy": "DZD",
+		"mobileCountryCode": "+213",
+		"name": {
+			"en_name": "Algeria",
+			"ja_name": "アルジェリア"
+		}
+	},
+	{
+		"cca3": "ECU",
+		"ccy": "USD",
+		"mobileCountryCode": "+593",
+		"name": {
+			"en_name": "Ecuador",
+			"ja_name": "エクアドル"
+		}
+	},
+	{
+		"cca3": "EGY",
+		"ccy": "EGP",
+		"mobileCountryCode": "+20",
+		"name": {
+			"en_name": "Egypt",
+			"ja_name": "エジプト"
+		}
+	},
+	{
+		"cca3": "ERI",
+		"ccy": "ERN",
+		"mobileCountryCode": "+291",
+		"name": {
+			"en_name": "Eritrea",
+			"ja_name": "エリトリア"
+		}
+	},
+	{
+		"cca3": "ESP",
+		"ccy": "EUR",
+		"mobileCountryCode": "+34",
+		"name": {
+			"en_name": "Spain",
+			"ja_name": "スペイン"
+		}
+	},
+	{
+		"cca3": "EST",
+		"ccy": "EUR",
+		"mobileCountryCode": "+372",
+		"name": {
+			"en_name": "Estonia",
+			"ja_name": "エストニア"
+		}
+	},
+	{
+		"cca3": "ETH",
+		"ccy": "ETB",
+		"mobileCountryCode": "+251",
+		"name": {
+			"en_name": "Ethiopia",
+			"ja_name": "エチオピア"
+		}
+	},
+	{
+		"cca3": "FIN",
+		"ccy": "EUR",
+		"mobileCountryCode": "+358",
+		"name": {
+			"en_name": "Finland",
+			"ja_name": "フィンランド"
+		}
+	},
+	{
+		"cca3": "FJI",
+		"ccy": "FJD",
+		"mobileCountryCode": "+679",
+		"name": {
+			"en_name": "Fiji",
+			"ja_name": "フィジー"
+		}
+	},
+	{
+		"cca3": "FLK",
+		"ccy": "FKP",
+		"mobileCountryCode": "+500",
+		"name": {
+			"en_name": "Falkland Islands",
+			"ja_name": "フォークランド（マルビナス）諸島"
+		}
+	},
+	{
+		"cca3": "FRA",
+		"ccy": "EUR",
+		"mobileCountryCode": "+33",
+		"name": {
+			"en_name": "France",
+			"ja_name": "フランス"
+		}
+	},
+	{
+		"cca3": "FRO",
+		"ccy": "DKK",
+		"mobileCountryCode": "+298",
+		"name": {
+			"en_name": "Faroe Islands",
+			"ja_name": "フェロー諸島"
+		}
+	},
+	{
+		"cca3": "GAB",
+		"ccy": "XAF",
+		"mobileCountryCode": "+241",
+		"name": {
+			"en_name": "Gabon",
+			"ja_name": "ガボン"
+		}
+	},
+	{
+		"cca3": "GBR",
+		"ccy": "GBP",
+		"mobileCountryCode": "+44",
+		"name": {
+			"en_name": "United Kingdom",
+			"ja_name": "イギリス"
+		}
+	},
+	{
+		"cca3": "GEO",
+		"ccy": "GEL",
+		"mobileCountryCode": "+995",
+		"name": {
+			"en_name": "Georgia",
+			"ja_name": "グルジア"
+		}
+	},
+	{
+		"cca3": "GGY",
+		"ccy": "GBP",
+		"mobileCountryCode": "+44",
+		"name": {
+			"en_name": "Guernsey",
+			"ja_name": "ガーンジー"
+		}
+	},
+	{
+		"cca3": "GHA",
+		"ccy": "GHS",
+		"mobileCountryCode": "+233",
+		"name": {
+			"en_name": "Ghana",
+			"ja_name": "ガーナ"
+		}
+	},
+	{
+		"cca3": "GIB",
+		"ccy": "GIP",
+		"mobileCountryCode": "+350",
+		"name": {
+			"en_name": "Gibraltar",
+			"ja_name": "ジブラルタル"
+		}
+	},
+	{
+		"cca3": "GIN",
+		"ccy": "GNF",
+		"mobileCountryCode": "+224",
+		"name": {
+			"en_name": "Guinea",
+			"ja_name": "ギニア"
+		}
+	},
+	{
+		"cca3": "GMB",
+		"ccy": "GMD",
+		"mobileCountryCode": "+220",
+		"name": {
+			"en_name": "Gambia",
+			"ja_name": "ガンビア"
+		}
+	},
+	{
+		"cca3": "GNB",
+		"ccy": "XOF",
+		"mobileCountryCode": "+245",
+		"name": {
+			"en_name": "Guinea-Bissau",
+			"ja_name": "ギニアビサウ"
+		}
+	},
+	{
+		"cca3": "GNQ",
+		"ccy": "XAF",
+		"mobileCountryCode": "+240",
+		"name": {
+			"en_name": "Equatorial Guinea",
+			"ja_name": "赤道ギニア"
+		}
+	},
+	{
+		"cca3": "GRC",
+		"ccy": "EUR",
+		"mobileCountryCode": "+30",
+		"name": {
+			"en_name": "Greece",
+			"ja_name": "ギリシャ"
+		}
+	},
+	{
+		"cca3": "GRD",
+		"ccy": "XCD",
+		"mobileCountryCode": "+1473",
+		"name": {
+			"en_name": "Grenada",
+			"ja_name": "グレナダ"
+		}
+	},
+	{
+		"cca3": "GRL",
+		"ccy": "DKK",
+		"mobileCountryCode": "+299",
+		"name": {
+			"en_name": "Greenland",
+			"ja_name": "グリーンランド"
+		}
+	},
+	{
+		"cca3": "GTM",
+		"ccy": "GTQ",
+		"mobileCountryCode": "+502",
+		"name": {
+			"en_name": "Guatemala",
+			"ja_name": "グアテマラ"
+		}
+	},
+	{
+		"cca3": "GUM",
+		"ccy": "USD",
+		"mobileCountryCode": "+1671",
+		"name": {
+			"en_name": "Guam",
+			"ja_name": "グアム"
+		}
+	},
+	{
+		"cca3": "HKG",
+		"ccy": "HKD",
+		"mobileCountryCode": "+852",
+		"name": {
+			"en_name": "Hong Kong",
+			"ja_name": "香港"
+		}
+	},
+	{
+		"cca3": "HND",
+		"ccy": "HNL",
+		"mobileCountryCode": "+504",
+		"name": {
+			"en_name": "Honduras",
+			"ja_name": "ホンジュラス"
+		}
+	},
+	{
+		"cca3": "HRV",
+		"ccy": "HRK",
+		"mobileCountryCode": "+385",
+		"name": {
+			"en_name": "Croatia",
+			"ja_name": "クロアチア"
+		}
+	},
+	{
+		"cca3": "HTI",
+		"ccy": "HTG",
+		"mobileCountryCode": "+509",
+		"name": {
+			"en_name": "Haiti",
+			"ja_name": "ハイチ"
+		}
+	},
+	{
+		"cca3": "HUN",
+		"ccy": "HUF",
+		"mobileCountryCode": "+36",
+		"name": {
+			"en_name": "Hungary",
+			"ja_name": "ハンガリー"
+		}
+	},
+	{
+		"cca3": "IDN",
+		"ccy": "IDR",
+		"mobileCountryCode": "+62",
+		"name": {
+			"en_name": "Indonesia",
+			"ja_name": "インドネシア"
+		}
+	},
+	{
+		"cca3": "IMN",
+		"ccy": "GBP",
+		"mobileCountryCode": "+44",
+		"name": {
+			"en_name": "Isle of Man",
+			"ja_name": "マン島"
+		}
+	},
+	{
+		"cca3": "IND",
+		"ccy": "INR",
+		"mobileCountryCode": "+91",
+		"name": {
+			"en_name": "India",
+			"ja_name": "インド"
+		}
+	},
+	{
+		"cca3": "IOT",
+		"ccy": "USD",
+		"mobileCountryCode": "+246",
+		"name": {
+			"en_name": "British Indian Ocean Territory",
+			"ja_name": "イギリス領インド洋地域"
+		}
+	},
+	{
+		"cca3": "IRL",
+		"ccy": "EUR",
+		"mobileCountryCode": "+353",
+		"name": {
+			"en_name": "Ireland",
+			"ja_name": "アイルランド"
+		}
+	},
+	{
+		"cca3": "IRN",
+		"ccy": "IRR",
+		"mobileCountryCode": "+98",
+		"name": {
+			"en_name": "Iran",
+			"ja_name": "イラン・イスラム共和国"
+		}
+	},
+	{
+		"cca3": "IRQ",
+		"ccy": "IQD",
+		"mobileCountryCode": "+964",
+		"name": {
+			"en_name": "Iraq",
+			"ja_name": "イラク"
+		}
+	},
+	{
+		"cca3": "ISL",
+		"ccy": "ISK",
+		"mobileCountryCode": "+354",
+		"name": {
+			"en_name": "Iceland",
+			"ja_name": "アイスランド"
+		}
+	},
+	{
+		"cca3": "ISR",
+		"ccy": "ILS",
+		"mobileCountryCode": "+972",
+		"name": {
+			"en_name": "Israel",
+			"ja_name": "イスラエル"
+		}
+	},
+	{
+		"cca3": "ITA",
+		"ccy": "EUR",
+		"mobileCountryCode": "+39",
+		"name": {
+			"en_name": "Italy",
+			"ja_name": "イタリア"
+		}
+	},
+	{
+		"cca3": "JAM",
+		"ccy": "JMD",
+		"mobileCountryCode": "+1876",
+		"name": {
+			"en_name": "Jamaica",
+			"ja_name": "ジャマイカ"
+		}
+	},
+	{
+		"cca3": "JEY",
+		"ccy": "GBP",
+		"mobileCountryCode": "+44",
+		"name": {
+			"en_name": "Jersey",
+			"ja_name": "ジャージー"
+		}
+	},
+	{
+		"cca3": "JOR",
+		"ccy": "JOD",
+		"mobileCountryCode": "+962",
+		"name": {
+			"en_name": "Jordan",
+			"ja_name": "ヨルダン"
+		}
+	},
+	{
+		"cca3": "JPN",
+		"ccy": "JPY",
+		"mobileCountryCode": "+81",
+		"name": {
+			"en_name": "Japan",
+			"ja_name": "日本"
+		}
+	},
+	{
+		"cca3": "KAZ",
+		"ccy": "KZT",
+		"mobileCountryCode": "+7",
+		"name": {
+			"en_name": "Kazakhstan",
+			"ja_name": "カザフスタン"
+		}
+	},
+	{
+		"cca3": "KEN",
+		"ccy": "KES",
+		"mobileCountryCode": "+254",
+		"name": {
+			"en_name": "Kenya",
+			"ja_name": "ケニア"
+		}
+	},
+	{
+		"cca3": "KGZ",
+		"ccy": "KGS",
+		"mobileCountryCode": "+996",
+		"name": {
+			"en_name": "Kyrgyzstan",
+			"ja_name": "キルギス"
+		}
+	},
+	{
+		"cca3": "KHM",
+		"ccy": "KHR",
+		"mobileCountryCode": "+855",
+		"name": {
+			"en_name": "Cambodia",
+			"ja_name": "カンボジア"
+		}
+	},
+	{
+		"cca3": "KIR",
+		"ccy": "AUD",
+		"mobileCountryCode": "+686",
+		"name": {
+			"en_name": "Kiribati",
+			"ja_name": "キリバス"
+		}
+	},
+	{
+		"cca3": "KOR",
+		"ccy": "KRW",
+		"mobileCountryCode": "+82",
+		"name": {
+			"en_name": "South Korea",
+			"ja_name": "韓国"
+		}
+	},
+	{
+		"cca3": "KWT",
+		"ccy": "KWD",
+		"mobileCountryCode": "+965",
+		"name": {
+			"en_name": "Kuwait",
+			"ja_name": "クウェート"
+		}
+	},
+	{
+		"cca3": "LAO",
+		"ccy": "LAK",
+		"mobileCountryCode": "+856",
+		"name": {
+			"en_name": "Laos",
+			"ja_name": "ラオス人民民主共和国"
+		}
+	},
+	{
+		"cca3": "LBN",
+		"ccy": "LBP",
+		"mobileCountryCode": "+961",
+		"name": {
+			"en_name": "Lebanon",
+			"ja_name": "レバノン"
+		}
+	},
+	{
+		"cca3": "LBR",
+		"ccy": "LRD",
+		"mobileCountryCode": "+231",
+		"name": {
+			"en_name": "Liberia",
+			"ja_name": "リベリア"
+		}
+	},
+	{
+		"cca3": "LBY",
+		"ccy": "LYD",
+		"mobileCountryCode": "+218",
+		"name": {
+			"en_name": "Libya",
+			"ja_name": "リビア"
+		}
+	},
+	{
+		"cca3": "LCA",
+		"ccy": "XCD",
+		"mobileCountryCode": "+1758",
+		"name": {
+			"en_name": "Saint Lucia",
+			"ja_name": "セントルシア"
+		}
+	},
+	{
+		"cca3": "LIE",
+		"ccy": "CHF",
+		"mobileCountryCode": "+423",
+		"name": {
+			"en_name": "Liechtenstein",
+			"ja_name": "リヒテンシュタイン"
+		}
+	},
+	{
+		"cca3": "LKA",
+		"ccy": "LKR",
+		"mobileCountryCode": "+94",
+		"name": {
+			"en_name": "Sri Lanka",
+			"ja_name": "スリランカ"
+		}
+	},
+	{
+		"cca3": "LSO",
+		"ccy": "LSL",
+		"mobileCountryCode": "+266",
+		"name": {
+			"en_name": "Lesotho",
+			"ja_name": "レソト"
+		}
+	},
+	{
+		"cca3": "LTU",
+		"ccy": "EUR",
+		"mobileCountryCode": "+370",
+		"name": {
+			"en_name": "Lithuania",
+			"ja_name": "リトアニア"
+		}
+	},
+	{
+		"cca3": "LUX",
+		"ccy": "EUR",
+		"mobileCountryCode": "+352",
+		"name": {
+			"en_name": "Luxembourg",
+			"ja_name": "ルクセンブルク"
+		}
+	},
+	{
+		"cca3": "LVA",
+		"ccy": "EUR",
+		"mobileCountryCode": "+371",
+		"name": {
+			"en_name": "Latvia",
+			"ja_name": "ラトビア"
+		}
+	},
+	{
+		"cca3": "MAC",
+		"ccy": "MOP",
+		"mobileCountryCode": "+853",
+		"name": {
+			"en_name": "Macau",
+			"ja_name": "マカオ"
+		}
+	},
+	{
+		"cca3": "MAR",
+		"ccy": "MAD",
+		"mobileCountryCode": "+212",
+		"name": {
+			"en_name": "Morocco",
+			"ja_name": "モロッコ"
+		}
+	},
+	{
+		"cca3": "MCO",
+		"ccy": "EUR",
+		"mobileCountryCode": "+377",
+		"name": {
+			"en_name": "Monaco",
+			"ja_name": "モナコ"
+		}
+	},
+	{
+		"cca3": "MDA",
+		"ccy": "MDL",
+		"mobileCountryCode": "+373",
+		"name": {
+			"en_name": "Moldova",
+			"ja_name": "モルドバ共和国"
+		}
+	},
+	{
+		"cca3": "MDG",
+		"ccy": "MGA",
+		"mobileCountryCode": "+261",
+		"name": {
+			"en_name": "Madagascar",
+			"ja_name": "マダガスカル"
+		}
+	},
+	{
+		"cca3": "MDV",
+		"ccy": "MVR",
+		"mobileCountryCode": "+960",
+		"name": {
+			"en_name": "Maldives",
+			"ja_name": "モルディブ"
+		}
+	},
+	{
+		"cca3": "MEX",
+		"ccy": "MXN",
+		"mobileCountryCode": "+52",
+		"name": {
+			"en_name": "Mexico",
+			"ja_name": "メキシコ"
+		}
+	},
+	{
+		"cca3": "MHL",
+		"ccy": "USD",
+		"mobileCountryCode": "+692",
+		"name": {
+			"en_name": "Marshall Islands",
+			"ja_name": "マーシャル諸島"
+		}
+	},
+	{
+		"cca3": "MKD",
+		"ccy": "MKD",
+		"mobileCountryCode": "+389",
+		"name": {
+			"en_name": "North Macedonia",
+			"ja_name": "北マケドニア "
+		}
+	},
+	{
+		"cca3": "MLI",
+		"ccy": "XOF",
+		"mobileCountryCode": "+223",
+		"name": {
+			"en_name": "Mali",
+			"ja_name": "マリ"
+		}
+	},
+	{
+		"cca3": "MLT",
+		"ccy": "EUR",
+		"mobileCountryCode": "+356",
+		"name": {
+			"en_name": "Malta",
+			"ja_name": "マルタ"
+		}
+	},
+	{
+		"cca3": "MMR",
+		"ccy": "MMK",
+		"mobileCountryCode": "+95",
+		"name": {
+			"en_name": "Myanmar",
+			"ja_name": "ミャンマー"
+		}
+	},
+	{
+		"cca3": "MNE",
+		"ccy": "EUR",
+		"mobileCountryCode": "+382",
+		"name": {
+			"en_name": "Montenegro",
+			"ja_name": "モンテネグロ"
+		}
+	},
+	{
+		"cca3": "MNG",
+		"ccy": "MNT",
+		"mobileCountryCode": "+976",
+		"name": {
+			"en_name": "Mongolia",
+			"ja_name": "モンゴル"
+		}
+	},
+	{
+		"cca3": "MNP",
+		"ccy": "USD",
+		"mobileCountryCode": "+1670",
+		"name": {
+			"en_name": "Northern Mariana Islands",
+			"ja_name": "北マリアナ諸島"
+		}
+	},
+	{
+		"cca3": "MOZ",
+		"ccy": "MZN",
+		"mobileCountryCode": "+258",
+		"name": {
+			"en_name": "Mozambique",
+			"ja_name": "モザンビーク"
+		}
+	},
+	{
+		"cca3": "MRT",
+		"ccy": "MRU",
+		"mobileCountryCode": "+222",
+		"name": {
+			"en_name": "Mauritania",
+			"ja_name": "モーリタニア"
+		}
+	},
+	{
+		"cca3": "MSR",
+		"ccy": "XCD",
+		"mobileCountryCode": "+1664",
+		"name": {
+			"en_name": "Montserrat",
+			"ja_name": "モントセラト"
+		}
+	},
+	{
+		"cca3": "MTQ",
+		"ccy": "EUR",
+		"mobileCountryCode": "+596",
+		"name": {
+			"en_name": "Martinique",
+			"ja_name": "マルティニーク"
+		}
+	},
+	{
+		"cca3": "MUS",
+		"ccy": "MUR",
+		"mobileCountryCode": "+230",
+		"name": {
+			"en_name": "Mauritius",
+			"ja_name": "モーリシャス"
+		}
+	},
+	{
+		"cca3": "MWI",
+		"ccy": "MWK",
+		"mobileCountryCode": "+265",
+		"name": {
+			"en_name": "Malawi",
+			"ja_name": "マラウイ"
+		}
+	},
+	{
+		"cca3": "MYS",
+		"ccy": "MYR",
+		"mobileCountryCode": "+60",
+		"name": {
+			"en_name": "Malaysia",
+			"ja_name": "マレーシア"
+		}
+	},
+	{
+		"cca3": "NAM",
+		"ccy": "NAD",
+		"mobileCountryCode": "+264",
+		"name": {
+			"en_name": "Namibia",
+			"ja_name": "ナミビア"
+		}
+	},
+	{
+		"cca3": "NER",
+		"ccy": "XOF",
+		"mobileCountryCode": "+227",
+		"name": {
+			"en_name": "Niger",
+			"ja_name": "ニジェール"
+		}
+	},
+	{
+		"cca3": "NFK",
+		"ccy": "AUD",
+		"mobileCountryCode": "+672",
+		"name": {
+			"en_name": "Norfolk Island",
+			"ja_name": "ノーフォーク島"
+		}
+	},
+	{
+		"cca3": "NGA",
+		"ccy": "NGN",
+		"mobileCountryCode": "+234",
+		"name": {
+			"en_name": "Nigeria",
+			"ja_name": "ナイジェリア"
+		}
+	},
+	{
+		"cca3": "NIC",
+		"ccy": "NIO",
+		"mobileCountryCode": "+505",
+		"name": {
+			"en_name": "Nicaragua",
+			"ja_name": "ニカラグア"
+		}
+	},
+	{
+		"cca3": "NIU",
+		"ccy": "NZD",
+		"mobileCountryCode": "+683",
+		"name": {
+			"en_name": "Niue",
+			"ja_name": "ニウエ"
+		}
+	},
+	{
+		"cca3": "NLD",
+		"ccy": "EUR",
+		"mobileCountryCode": "+31",
+		"name": {
+			"en_name": "Netherlands",
+			"ja_name": "オランダ"
+		}
+	},
+	{
+		"cca3": "NOR",
+		"ccy": "NOK",
+		"mobileCountryCode": "+47",
+		"name": {
+			"en_name": "Norway",
+			"ja_name": "ノルウェー"
+		}
+	},
+	{
+		"cca3": "NPL",
+		"ccy": "NPR",
+		"mobileCountryCode": "+977",
+		"name": {
+			"en_name": "Nepal",
+			"ja_name": "ネパール"
+		}
+	},
+	{
+		"cca3": "NRU",
+		"ccy": "AUD",
+		"mobileCountryCode": "+674",
+		"name": {
+			"en_name": "Nauru",
+			"ja_name": "ナウル"
+		}
+	},
+	{
+		"cca3": "NZL",
+		"ccy": "NZD",
+		"mobileCountryCode": "+64",
+		"name": {
+			"en_name": "New Zealand",
+			"ja_name": "ニュージーランド"
+		}
+	},
+	{
+		"cca3": "OMN",
+		"ccy": "OMR",
+		"mobileCountryCode": "+968",
+		"name": {
+			"en_name": "Oman",
+			"ja_name": "オマーン"
+		}
+	},
+	{
+		"cca3": "PAK",
+		"ccy": "PKR",
+		"mobileCountryCode": "+92",
+		"name": {
+			"en_name": "Pakistan",
+			"ja_name": "パキスタン"
+		}
+	},
+	{
+		"cca3": "PAN",
+		"ccy": "PAB",
+		"mobileCountryCode": "+507",
+		"name": {
+			"en_name": "Panama",
+			"ja_name": "パナマ"
+		}
+	},
+	{
+		"cca3": "PCN",
+		"ccy": "NZD",
+		"mobileCountryCode": "+64",
+		"name": {
+			"en_name": "Pitcairn Islands",
+			"ja_name": "ピトケアン"
+		}
+	},
+	{
+		"cca3": "PER",
+		"ccy": "PEN",
+		"mobileCountryCode": "+51",
+		"name": {
+			"en_name": "Peru",
+			"ja_name": "ペルー"
+		}
+	},
+	{
+		"cca3": "PHL",
+		"ccy": "PHP",
+		"mobileCountryCode": "+63",
+		"name": {
+			"en_name": "Philippines",
+			"ja_name": "フィリピン"
+		}
+	},
+	{
+		"cca3": "PLW",
+		"ccy": "USD",
+		"mobileCountryCode": "+680",
+		"name": {
+			"en_name": "Palau",
+			"ja_name": "パラオ"
+		}
+	},
+	{
+		"cca3": "PNG",
+		"ccy": "PGK",
+		"mobileCountryCode": "+675",
+		"name": {
+			"en_name": "Papua New Guinea",
+			"ja_name": "パプアニューギニア"
+		}
+	},
+	{
+		"cca3": "POL",
+		"ccy": "PLN",
+		"mobileCountryCode": "+48",
+		"name": {
+			"en_name": "Poland",
+			"ja_name": "ポーランド"
+		}
+	},
+	{
+		"cca3": "PRI",
+		"ccy": "USD",
+		"mobileCountryCode": "+1",
+		"name": {
+			"en_name": "Puerto Rico",
+			"ja_name": "プエルトリコ"
+		}
+	},
+	{
+		"cca3": "PRK",
+		"ccy": "KPW",
+		"mobileCountryCode": "+850",
+		"name": {
+			"en_name": "North Korea",
+			"ja_name": "朝鮮民主主義人民共和国"
+		}
+	},
+	{
+		"cca3": "PRT",
+		"ccy": "EUR",
+		"mobileCountryCode": "+351",
+		"name": {
+			"en_name": "Portugal",
+			"ja_name": "ポルトガル"
+		}
+	},
+	{
+		"cca3": "PRY",
+		"ccy": "PYG",
+		"mobileCountryCode": "+595",
+		"name": {
+			"en_name": "Paraguay",
+			"ja_name": "パラグアイ"
+		}
+	},
+	{
+		"cca3": "PSE",
+		"ccy": "EGP",
+		"mobileCountryCode": "+970",
+		"name": {
+			"en_name": "Palestine",
+			"ja_name": "パレスチナ"
+		}
+	},
+	{
+		"cca3": "PYF",
+		"ccy": "XPF",
+		"mobileCountryCode": "+689",
+		"name": {
+			"en_name": "French Polynesia",
+			"ja_name": "フランス領ポリネシア"
+		}
+	},
+	{
+		"cca3": "QAT",
+		"ccy": "QAR",
+		"mobileCountryCode": "+974",
+		"name": {
+			"en_name": "Qatar",
+			"ja_name": "カタール"
+		}
+	},
+	{
+		"cca3": "ROU",
+		"ccy": "RON",
+		"mobileCountryCode": "+40",
+		"name": {
+			"en_name": "Romania",
+			"ja_name": "ルーマニア"
+		}
+	},
+	{
+		"cca3": "RUS",
+		"ccy": "RUB",
+		"mobileCountryCode": "+7",
+		"name": {
+			"en_name": "Russia",
+			"ja_name": "ロシア連邦"
+		}
+	},
+	{
+		"cca3": "RWA",
+		"ccy": "RWF",
+		"mobileCountryCode": "+250",
+		"name": {
+			"en_name": "Rwanda",
+			"ja_name": "ルワンダ"
+		}
+	},
+	{
+		"cca3": "SAU",
+		"ccy": "SAR",
+		"mobileCountryCode": "+966",
+		"name": {
+			"en_name": "Saudi Arabia",
+			"ja_name": "サウジアラビア"
+		}
+	},
+	{
+		"cca3": "SDN",
+		"ccy": "SDG",
+		"mobileCountryCode": "+249",
+		"name": {
+			"en_name": "Sudan",
+			"ja_name": "スーダン"
+		}
+	},
+	{
+		"cca3": "SEN",
+		"ccy": "XOF",
+		"mobileCountryCode": "+221",
+		"name": {
+			"en_name": "Senegal",
+			"ja_name": "セネガル"
+		}
+	},
+	{
+		"cca3": "SGP",
+		"ccy": "SGD",
+		"mobileCountryCode": "+65",
+		"name": {
+			"en_name": "Singapore",
+			"ja_name": "シンガポール"
+		}
+	},
+	{
+		"cca3": "SLB",
+		"ccy": "SBD",
+		"mobileCountryCode": "+677",
+		"name": {
+			"en_name": "Solomon Islands",
+			"ja_name": "ソロモン諸島"
+		}
+	},
+	{
+		"cca3": "SLE",
+		"ccy": "SLL",
+		"mobileCountryCode": "+232",
+		"name": {
+			"en_name": "Sierra Leone",
+			"ja_name": "シエラレオネ"
+		}
+	},
+	{
+		"cca3": "SLV",
+		"ccy": "USD",
+		"mobileCountryCode": "+503",
+		"name": {
+			"en_name": "El Salvador",
+			"ja_name": "エルサルバドル"
+		}
+	},
+	{
+		"cca3": "SMR",
+		"ccy": "EUR",
+		"mobileCountryCode": "+378",
+		"name": {
+			"en_name": "San Marino",
+			"ja_name": "サンマリノ"
+		}
+	},
+	{
+		"cca3": "SOM",
+		"ccy": "SOS",
+		"mobileCountryCode": "+252",
+		"name": {
+			"en_name": "Somalia",
+			"ja_name": "ソマリア"
+		}
+	},
+	{
+		"cca3": "SRB",
+		"ccy": "RSD",
+		"mobileCountryCode": "+381",
+		"name": {
+			"en_name": "Serbia",
+			"ja_name": "セルビア"
+		}
+	},
+	{
+		"cca3": "SSD",
+		"ccy": "SSP",
+		"mobileCountryCode": "+211",
+		"name": {
+			"en_name": "South Sudan",
+			"ja_name": "南スーダン"
+		}
+	},
+	{
+		"cca3": "SUR",
+		"ccy": "SRD",
+		"mobileCountryCode": "+597",
+		"name": {
+			"en_name": "Suriname",
+			"ja_name": "スリナム"
+		}
+	},
+	{
+		"cca3": "SVK",
+		"ccy": "EUR",
+		"mobileCountryCode": "+421",
+		"name": {
+			"en_name": "Slovakia",
+			"ja_name": "スロバキア"
+		}
+	},
+	{
+		"cca3": "SVN",
+		"ccy": "EUR",
+		"mobileCountryCode": "+386",
+		"name": {
+			"en_name": "Slovenia",
+			"ja_name": "スロベニア"
+		}
+	},
+	{
+		"cca3": "SWE",
+		"ccy": "SEK",
+		"mobileCountryCode": "+46",
+		"name": {
+			"en_name": "Sweden",
+			"ja_name": "スウェーデン"
+		}
+	},
+	{
+		"cca3": "SXM",
+		"ccy": "ANG",
+		"mobileCountryCode": "+1721",
+		"name": {
+			"en_name": "Sint Maarten",
+			"ja_name": "シント・マールテン"
+		}
+	},
+	{
+		"cca3": "SYC",
+		"ccy": "SCR",
+		"mobileCountryCode": "+248",
+		"name": {
+			"en_name": "Seychelles",
+			"ja_name": "セーシェル"
+		}
+	},
+	{
+		"cca3": "SYR",
+		"ccy": "SYP",
+		"mobileCountryCode": "+963",
+		"name": {
+			"en_name": "Syria",
+			"ja_name": "シリア・アラブ共和国"
+		}
+	},
+	{
+		"cca3": "TCA",
+		"ccy": "USD",
+		"mobileCountryCode": "+1649",
+		"name": {
+			"en_name": "Turks and Caicos Islands",
+			"ja_name": "タークス・カイコス諸島"
+		}
+	},
+	{
+		"cca3": "TCD",
+		"ccy": "XAF",
+		"mobileCountryCode": "+235",
+		"name": {
+			"en_name": "Chad",
+			"ja_name": "チャド"
+		}
+	},
+	{
+		"cca3": "TGO",
+		"ccy": "XOF",
+		"mobileCountryCode": "+228",
+		"name": {
+			"en_name": "Togo",
+			"ja_name": "トーゴ"
+		}
+	},
+	{
+		"cca3": "THA",
+		"ccy": "THB",
+		"mobileCountryCode": "+66",
+		"name": {
+			"en_name": "Thailand",
+			"ja_name": "タイ"
+		}
+	},
+	{
+		"cca3": "TJK",
+		"ccy": "TJS",
+		"mobileCountryCode": "+992",
+		"name": {
+			"en_name": "Tajikistan",
+			"ja_name": "タジキスタン"
+		}
+	},
+	{
+		"cca3": "TKL",
+		"ccy": "NZD",
+		"mobileCountryCode": "+690",
+		"name": {
+			"en_name": "Tokelau",
+			"ja_name": "トケラウ"
+		}
+	},
+	{
+		"cca3": "TKM",
+		"ccy": "TMT",
+		"mobileCountryCode": "+993",
+		"name": {
+			"en_name": "Turkmenistan",
+			"ja_name": "トルクメニスタン"
+		}
+	},
+	{
+		"cca3": "TLS",
+		"ccy": "USD",
+		"mobileCountryCode": "+670",
+		"name": {
+			"en_name": "Timor-Leste",
+			"ja_name": "東ティモール"
+		}
+	},
+	{
+		"cca3": "TON",
+		"ccy": "TOP",
+		"mobileCountryCode": "+676",
+		"name": {
+			"en_name": "Tonga",
+			"ja_name": "トンガ"
+		}
+	},
+	{
+		"cca3": "TTO",
+		"ccy": "TTD",
+		"mobileCountryCode": "+1868",
+		"name": {
+			"en_name": "Trinidad and Tobago",
+			"ja_name": "トリニダード・トバゴ"
+		}
+	},
+	{
+		"cca3": "TUN",
+		"ccy": "TND",
+		"mobileCountryCode": "+216",
+		"name": {
+			"en_name": "Tunisia",
+			"ja_name": "チュニジア"
+		}
+	},
+	{
+		"cca3": "TUR",
+		"ccy": "TRY",
+		"mobileCountryCode": "+90",
+		"name": {
+			"en_name": "Turkey",
+			"ja_name": "トルコ"
+		}
+	},
+	{
+		"cca3": "TUV",
+		"ccy": "AUD",
+		"mobileCountryCode": "+688",
+		"name": {
+			"en_name": "Tuvalu",
+			"ja_name": "ツバル"
+		}
+	},
+	{
+		"cca3": "TWN",
+		"ccy": "TWD",
+		"mobileCountryCode": "+886",
+		"name": {
+			"en_name": "Taiwan",
+			"ja_name": "台湾"
+		}
+	},
+	{
+		"cca3": "TZA",
+		"ccy": "TZS",
+		"mobileCountryCode": "+255",
+		"name": {
+			"en_name": "Tanzania",
+			"ja_name": "タンザニア"
+		}
+	},
+	{
+		"cca3": "UGA",
+		"ccy": "UGX",
+		"mobileCountryCode": "+256",
+		"name": {
+			"en_name": "Uganda",
+			"ja_name": "ウガンダ"
+		}
+	},
+	{
+		"cca3": "UKR",
+		"ccy": "UAH",
+		"mobileCountryCode": "+380",
+		"name": {
+			"en_name": "Ukraine",
+			"ja_name": "ウクライナ"
+		}
+	},
+	{
+		"cca3": "URY",
+		"ccy": "UYU",
+		"mobileCountryCode": "+598",
+		"name": {
+			"en_name": "Uruguay",
+			"ja_name": "ウルグアイ"
+		}
+	},
+	{
+		"cca3": "USA",
+		"ccy": "USD",
+		"mobileCountryCode": "+1",
+		"name": {
+			"en_name": "United States",
+			"ja_name": "アメリカ合衆国"
+		}
+	},
+	{
+		"cca3": "UZB",
+		"ccy": "UZS",
+		"mobileCountryCode": "+998",
+		"name": {
+			"en_name": "Uzbekistan",
+			"ja_name": "ウズベキスタン"
+		}
+	},
+	{
+		"cca3": "VAT",
+		"ccy": "EUR",
+		"mobileCountryCode": "+3",
+		"name": {
+			"en_name": "Vatican City",
+			"ja_name": "バチカン市国"
+		}
+	},
+	{
+		"cca3": "VCT",
+		"ccy": "XCD",
+		"mobileCountryCode": "+1784",
+		"name": {
+			"en_name": "Saint Vincent and the Grenadines",
+			"ja_name": "セントビンセントおよびグレナディーン諸島"
+		}
+	},
+	{
+		"cca3": "VEN",
+		"ccy": "VES",
+		"mobileCountryCode": "+58",
+		"name": {
+			"en_name": "Venezuela",
+			"ja_name": "ベネズエラ・ボリバル共和国"
+		}
+	},
+	{
+		"cca3": "VGB",
+		"ccy": "USD",
+		"mobileCountryCode": "+1284",
+		"name": {
+			"en_name": "British Virgin Islands",
+			"ja_name": "イギリス領ヴァージン諸島"
+		}
+	},
+	{
+		"cca3": "VNM",
+		"ccy": "VND",
+		"mobileCountryCode": "+84",
+		"name": {
+			"en_name": "Vietnam",
+			"ja_name": "ベトナム"
+		}
+	},
+	{
+		"cca3": "VUT",
+		"ccy": "VUV",
+		"mobileCountryCode": "+678",
+		"name": {
+			"en_name": "Vanuatu",
+			"ja_name": "バヌアツ"
+		}
+	},
+	{
+		"cca3": "WSM",
+		"ccy": "WST",
+		"mobileCountryCode": "+685",
+		"name": {
+			"en_name": "Samoa",
+			"ja_name": "サモア"
+		}
+	},
+	{
+		"cca3": "YEM",
+		"ccy": "YER",
+		"mobileCountryCode": "+967",
+		"name": {
+			"en_name": "Yemen",
+			"ja_name": "イエメン"
+		}
+	},
+	{
+		"cca3": "ZAF",
+		"ccy": "ZAR",
+		"mobileCountryCode": "+27",
+		"name": {
+			"en_name": "South Africa",
+			"ja_name": "南アフリカ"
+		}
+	},
+	{
+		"cca3": "ZMB",
+		"ccy": "ZMW",
+		"mobileCountryCode": "+260",
+		"name": {
+			"en_name": "Zambia",
+			"ja_name": "ザンビア"
+		}
+	},
+	{
+		"cca3": "ZWE",
+		"ccy": "BWP",
+		"mobileCountryCode": "+263",
+		"name": {
+			"en_name": "Zimbabwe",
+			"ja_name": "ジンバブエ"
+		}
+	},
+	{
+		"cca3": "ATF",
+		"ccy": "EUR",
+		"mobileCountryCode": "+262",
+		"name": {
+			"en_name": "French Southern and Antarctic Lands",
+			"ja_name": "フランス領南方・南極地域"
+		}
+	},
+	{
+		"cca3": "SHN",
+		"ccy": "GBP",
+		"mobileCountryCode": "+2",
+		"name": {
+			"en_name": "Saint Helena, Ascension and Tristan da Cunha",
+			"ja_name": "セントヘレナ・アセンションおよびトリスタンダクーニャ"
+		}
+	},
+	{
+		"cca3": "ESH",
+		"ccy": "DZD",
+		"mobileCountryCode": "+2",
+		"name": {
+			"en_name": "Western Sahara",
+			"ja_name": "西サハラ"
+		}
+	},
+	{
+		"cca3": "GLP",
+		"ccy": "EUR",
+		"mobileCountryCode": "+590",
+		"name": {
+			"en_name": "Guadeloupe",
+			"ja_name": "グアドループ"
+		}
+	},
+	{
+		"cca3": "GUF",
+		"ccy": "EUR",
+		"mobileCountryCode": "+594",
+		"name": {
+			"en_name": "French Guiana",
+			"ja_name": "フランス領ギアナ"
+		}
+	},
+	{
+		"cca3": "GUY",
+		"ccy": "GYD",
+		"mobileCountryCode": "+592",
+		"name": {
+			"en_name": "Guyana",
+			"ja_name": "ガイアナ"
+		}
+	},
+	{
+		"cca3": "KNA",
+		"ccy": "XCD",
+		"mobileCountryCode": "+1869",
+		"name": {
+			"en_name": "Saint Kitts and Nevis",
+			"ja_name": "セントクリストファー・ネイビス"
+		}
+	},
+	{
+		"cca3": "MAF",
+		"ccy": "EUR",
+		"mobileCountryCode": "+590",
+		"name": {
+			"en_name": "Saint Martin",
+			"ja_name": "サン・マルタン（フランス領）"
+		}
+	},
+	{
+		"cca3": "MYT",
+		"ccy": "EUR",
+		"mobileCountryCode": "+262",
+		"name": {
+			"en_name": "Mayotte",
+			"ja_name": "マヨット"
+		}
+	},
+	{
+		"cca3": "NCL",
+		"ccy": "XPF",
+		"mobileCountryCode": "+687",
+		"name": {
+			"en_name": "New Caledonia",
+			"ja_name": "ニューカレドニア"
+		}
+	},
+	{
+		"cca3": "REU",
+		"ccy": "EUR",
+		"mobileCountryCode": "+262",
+		"name": {
+			"en_name": "Réunion",
+			"ja_name": "レユニオン"
+		}
+	},
+	{
+		"cca3": "SGS",
+		"ccy": "SHP",
+		"mobileCountryCode": "+500",
+		"name": {
+			"en_name": "South Georgia",
+			"ja_name": "サウスジョージア・サウスサンドウィッチ諸島"
+		}
+	},
+	{
+		"cca3": "SJM",
+		"ccy": "NOK",
+		"mobileCountryCode": "+4779",
+		"name": {
+			"en_name": "Svalbard and Jan Mayen",
+			"ja_name": "スヴァールバル諸島およびヤンマイエン島"
+		}
+	},
+	{
+		"cca3": "SPM",
+		"ccy": "EUR",
+		"mobileCountryCode": "+508",
+		"name": {
+			"en_name": "Saint Pierre and Miquelon",
+			"ja_name": "サンピエール島・ミクロン島"
+		}
+	},
+	{
+		"cca3": "STP",
+		"ccy": "STN",
+		"mobileCountryCode": "+239",
+		"name": {
+			"en_name": "São Tomé and Príncipe",
+			"ja_name": "サントメ・プリンシペ"
+		}
+	},
+	{
+		"cca3": "SWZ",
+		"ccy": "SZL",
+		"mobileCountryCode": "+268",
+		"name": {
+			"en_name": "Eswatini",
+			"ja_name": "スワジランド"
+		}
+	},
+	{
+		"cca3": "UMI",
+		"ccy": "USD",
+		"mobileCountryCode": "+268",
+		"name": {
+			"en_name": "United States Minor Outlying Islands",
+			"ja_name": "合衆国領有小離島"
+		}
+	},
+	{
+		"cca3": "VIR",
+		"ccy": "USD",
+		"mobileCountryCode": "+1340",
+		"name": {
+			"en_name": "United States Virgin Islands",
+			"ja_name": "アメリカ領ヴァージン諸島"
+		}
+	},
+	{
+		"cca3": "WLF",
+		"ccy": "XPF",
+		"mobileCountryCode": "+681",
+		"name": {
+			"en_name": "Wallis and Futuna",
+			"ja_name": "ウォリス・フツナ"
+		}
+	}
+]

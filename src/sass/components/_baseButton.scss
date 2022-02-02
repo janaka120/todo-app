@@ -1,0 +1,24 @@
+@import '../abstracts/global';
+
+.base_button {
+	border-radius: 30px;
+	padding: 4px 18px;
+	background-color: $green_168_150;
+	border: none;
+	color: $white_255_100;
+
+	&--primary {
+		background-color: $green_168_150;
+	}
+	&--default {
+		background-color: $white_255_100;
+		color: $gray_117_125;
+		border: $white_226_230 1px solid;
+	}
+	&--danger {
+		background-color: $red_56_59;
+	}
+	&--disabled {
+		background-color: #ced4da;
+	}
+}

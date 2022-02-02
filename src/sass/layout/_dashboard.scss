@@ -1,0 +1,44 @@
+@import '../abstracts/global';
+html,
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0px !important;
+}
+
+#root {
+    height: 100%;
+}
+
+.main-con {
+    width: 100% !important;
+    height: 100% !important;
+
+    .header-con {
+        height: 8%;
+        width: 100%;
+        display: flex;
+        background-color: $white_255_100;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .content-main {
+        height: 82%;
+        width: 100%;
+        background-color: $white_247_100;
+    }
+    
+    .footer-con {
+        display: flex;
+        height: 10%;
+        width: 100%;
+        background-color: $white_255_100;
+        justify-content: center;
+        align-items: center;
+
+        .footer-con--info {
+            color: $gray_80_87;
+        }
+    }
+}

@@ -1,0 +1,105 @@
+@import '../abstracts/global';
+
+.todo_container {
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	padding: 30px 20px;
+	height: 100%;
+
+	.input_con {
+		display: flex;
+		flex-direction: row;
+		align-items: center;
+		justify-content: center;
+		border-radius: 10px;
+		width: 50%;
+		height: 55px;
+		background-color: $white_255_100;
+		justify-content: space-around;
+
+		&__input {
+			width: 70%;
+			border: $white_225_100 1px solid;
+			border-radius: 5px;
+			height: 28px;
+
+			&:focus {
+				border: $green_182_154 1px solid !important;
+				outline: none;
+			}
+		}
+		
+	}
+
+	.todo_list_container {
+		height: 82%;
+    	width: 50%;
+		margin-top: 20px;
+		.todo_list_title {
+			color: $gray_80_87;
+		}
+
+		.todo_list {
+			height: 90%;
+    		overflow-y: scroll;
+			list-style: none;
+    		padding-inline-start: 0px;
+			margin-block-start: 0em;
+			
+			&::-webkit-scrollbar{
+				display: none;
+			}
+		}
+	}
+
+	.todo-item {
+		background-color: $white_255_100;
+		border: $green_230_208 solid 1px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		padding: 10px;
+
+		.space {
+			width: 15px;
+		}
+
+		&__top {
+			display: flex;
+			flex-direction: row;
+			justify-content: space-between;
+
+			.update_input {
+				width: 70%;
+				border: $white_225_100 1px solid;
+				border-radius: 5px;
+				height: 28px;
+
+				&:focus {
+					border: $green_182_154 1px solid !important;
+					outline: none;
+				}
+			}
+
+			.title {
+				word-wrap: break-word;
+				width: 75%;
+				color: $gray_117_125;
+				font-size: 14px;
+			}
+
+			.date {
+				color: $gray_181_189;
+				font-size: small;
+			}
+		}
+
+		&__bottom {
+			display: flex;
+			flex-direction: row;
+			align-items: center;
+			margin-top: 12px;
+		}
+	}
+}
